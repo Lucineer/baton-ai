@@ -27,3 +27,7 @@ Baton implements the Universal Handoff Protocol for repo-native agents. When one
 📝 Handoff module implemented in makerlog-ai/src/a2a/handoff.ts. This repo is the standalone library.
 
 Author: Superinstance
+
+## License
+
+MIT — Built with ❤️ by [Superinstance](https://github.com/superinstance) & [Lucineer](https://github.com/Lucineer) (DiGennaro et al.)
